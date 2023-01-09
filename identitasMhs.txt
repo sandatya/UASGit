@@ -1,1 +1,3 @@
 daftar nama mahasiswa kelas git :
+Nama	: Ida Bagus Ardi Nata
+NIM	: 2102030005
